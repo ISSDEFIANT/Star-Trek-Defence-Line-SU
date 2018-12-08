@@ -1,8 +1,9 @@
 fileFormatVersion: 2
-guid: ac95ec1dd1c864f7bba43c793178055d
+guid: 07946d313c5bdf04dbec0fcc36835732
+labels:
+- climate-ice
+- atmosphere-cyan-thick
 NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

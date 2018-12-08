@@ -1,8 +1,9 @@
 fileFormatVersion: 2
-guid: 338fbd45aa27546198c900fb263eb625
+guid: 4a9dab4e079308d4e97909be51e67874
+labels:
+- climate-desert
+- atmosphere-brown-medium
 NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

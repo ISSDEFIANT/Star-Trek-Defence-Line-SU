@@ -1,8 +1,9 @@
 fileFormatVersion: 2
-guid: 19d2c4dfa690c496c9961b7618012f4e
+guid: d751046a0ceee4144bf01ce949a0ba1d
+labels:
+- color-purple
+- count-low
 NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

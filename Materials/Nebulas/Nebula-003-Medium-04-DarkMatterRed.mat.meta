@@ -1,8 +1,12 @@
 fileFormatVersion: 2
-guid: d5bc0217443a44d98b1988b47e6df3bc
+guid: 9a9e0979e0c828648acd5d7716bb825c
+labels:
+- brightness-medium
+- color-red
+- complexity-low
+- style-cloudy
+- style-dark_matter
 NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -1,8 +1,9 @@
 fileFormatVersion: 2
-guid: 5e2c896de984d43e89c06cf7326d84a8
+guid: a26136d9e402ddd439c302009f49cded
+labels:
+- atmosphere-cyan-medium
+- climate-earth_like
 NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

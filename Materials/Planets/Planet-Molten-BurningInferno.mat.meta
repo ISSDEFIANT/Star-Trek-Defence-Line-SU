@@ -1,8 +1,9 @@
 fileFormatVersion: 2
-guid: 0d86c4f8a8f0f44169990a10d55b7c10
+guid: d61bff13cb8568641823f172cdb270fb
+labels:
+- climate-molten
+- atmosphere-orange-thin
 NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
